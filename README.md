@@ -24,6 +24,27 @@ I am always open to industry inquiries, project collaborations, and exploring th
 
 **Email:** [iamhk1985@gmail.com](mailto:iamhk1985@gmail.com)
 
+### Project 1: Huawei Mate XT - "The Leader" AI Commercial
+
+<a href="https://www.bilibili.com/video/BV1dt4JezEfm/?spm_id_from=333.1387.upload.video_card.click&vd_source=35e1e3ff52094abd9424bdb4448384c5" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/95bd9a85-7d5f-4732-b1a3-dfdac3a6caf7" alt="Huawei Mate XT Project Demo" width="300"/>
+</a>
+<p align="left">
+  <small><i>▶️ Click the image above to watch the full HD version</i></small>
+</p>
+
+> **Project Brief:** An AI commercial custom-made for China's top-tier tech brand, Huawei. The creative core involves ingeniously using historical leaders, bridging their timeless wisdom with the groundbreaking tri-fold form factor of the Mate XT. This vividly demonstrates the device's powerful applications across multiple scenarios, solidifying its flagship positioning as an industry leader.
+
+**Impact & Reception:**
+*   The video went **viral across 6 major social media platforms** in Mainland China.
+*   It garnered **over 1 million views** and **more than 20,000 likes** within its first week.
+*   It sparked widespread discussion on the fusion of technology and humanities, becoming **an industry case study for AI-powered advertising**.
+
+**My Contribution & Key Techs:**
+*   **Role:** Served as the AI Director, responsible for the entire pipeline from concept and workflow design to final generation.
+*   **Workflow:** I combined a product-specific `LoRA` model with `ComfyUI` to generate high-fidelity historical figures. Subsequently, I utilized `Kling` to create the core AI video clips, which were then edited into the final commercial.
+*   **Model Training:** To ensure the utmost precision and consistency of product details, I **fine-tuned a custom `LoRA` model specifically for the tri-fold smartphone**.
+
 <br>
 <hr>
 <br>
@@ -40,11 +61,34 @@ I am always open to industry inquiries, project collaborations, and exploring th
 *   **AI 品牌宣傳片:** 透過獨特嘅視覺風格，講好品牌故事，提升品牌形象。
 *   **AI 數碼人同虛擬化身:** 設計像真度極高嘅虛擬角色，用喺品牌代言同互動體驗。
 
+
 #### 🛠️ 我嘅核心技術
 我嘅創作建基於對 AI 生成技術嘅深入理解，確保每個項目都可以做到最精準嘅藝術控制同最高質素嘅出品。
 *   **進階 ComfyUI 工作流程:** 我擅長搭建複雜而精準嘅節點工作流程 (Workflow)，實現對畫面風格、構圖同角色一致性嘅精準控制。
-*   **模型微調 (Fine-tuning) 同訓練:** 我能夠為指定嘅產品、角色或者藝術風格，訓練專屬嘅 LoRA/Dreambooth 模型，做出獨一無二、又完全貼合品牌要求嘅視覺效果。
+*   **模型微調 (Fine-tuning) 同訓練:** 我能夠為指定嘅產品、角色或者藝術風格，訓練專屬嘅 LoRA/模型，做出獨一無二、又完全貼合品牌要求嘅視覺效果。
 
 我對同業界交流、項目合作，或者一齊探索AI影像嘅未來都好有興趣。隨時歡迎聯絡我！
 
 **Email:** [iamhk1985@gmail.com](mailto:iamhk1985@gmail.com)
+
+
+### 項目一：華為 Mate XT -《領導者》AI 廣告片
+
+<a href="https://www.bilibili.com/video/BV1dt4JezEfm/?spm_id_from=333.1387.upload.video_card.click&vd_source=35e1e3ff52094abd9424bdb4448384c5" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/95bd9a85-7d5f-4732-b1a3-dfdac3a6caf7" alt="華為 Mate XT 項目 Demo" width="300"/>
+</a>
+<p align="left">
+  <small><i>▶️點擊上方圖片，觀看高清完整版</i></small>
+</p>
+
+> **項目簡介：** 為中國頂尖科技品牌華為度身訂造嘅 AI 廣告片。創作核心係巧妙運用歷史偉人形象，將佢哋跨越時空嘅智慧，同 Mate XT 開創性嘅三摺疊形態結合，生動演繹出部機喺多場景下嘅強大應用，確立其作為行業領導者嘅旗艦級定位。
+
+**迴響與成績:**
+*   影片喺中國大陸 **6 個主流社交平台成為熱話**，引發病毒式傳播。
+*   上線首周就 **錄得超過 100 萬次觀看** 同 **超過 2 萬個 Like**。
+*   成功引發科技同人文結合嘅廣泛討論，並成為 **AI 廣告領域嘅一個行業參考案例**。
+
+**我嘅貢獻與核心技術:**
+*   **職責：** 擔任 AI 導演，由概念、工作流程設計到生成一手包辦。
+*   **工作流程 (Workflow):** 結合產品 `LoRA` 模型，利用 `ComfyUI` 生成高像真度嘅歷史人物形象，再透過 `Kling` 生成核心 AI 動畫片段，最後進行剪輯製作。
+*   **模型訓練 (Model Training):** 為咗確保產品細節嘅極致還原同一致性，我專門為 Mate XT **微調咗一個三摺疊手機 LoRA 模型**。
