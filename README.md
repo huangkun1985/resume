@@ -248,7 +248,9 @@ I am always open to industry inquiries, project collaborations, and exploring th
 <hr>
 <br>
 
-### 🇭🇰 香港繁體中文版 (Chinese Version)
+<a id="chinese-version"></a>
+
+### 香港繁體中文版 (Chinese Version)
 
 我係一位嚟自香港嘅 **生成式AI短片導演**。我嘅專長係將最新嘅AI技術同商業創意故事結合，幫唔同嘅公司同品牌，創造出有強烈視覺衝擊力、故事深度同品牌價值嘅影片。
 
